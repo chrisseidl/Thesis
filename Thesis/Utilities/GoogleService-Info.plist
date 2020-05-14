@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>517672218781-g9fg8oagt95nrfm393m19549m9arvqhc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.517672218781-g9fg8oagt95nrfm393m19549m9arvqhc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCwdmUfNXJw33H7oQOIUtzg4o9ZifE1C4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>517672218781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Seidl.Thesis</string>
+	<key>PROJECT_ID</key>
+	<string>thesiswedj</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thesiswedj.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:517672218781:ios:5f40fe40f2fb118253e474</string>
+	<key>DATABASE_URL</key>
+	<string>https://thesiswedj.firebaseio.com</string>
+</dict>
+</plist>
